@@ -1,46 +1,52 @@
 class Solution {
 public:
-    int m, n;
-    vector<vector<int>> g;
-    vector<vector<bool>> visited;
-    vector<vector<vector<int>>> dp;
-    bool dfs(int i, int j, int health) {
-        if (i < 0 || i >= m || j < 0 || j >= n)
-            return false;
-
-        if (g[i][j] == 1)
-            health--;
-
-        if (health <= 0)
-            return false;
-
-        if (i == m - 1 && j == n - 1)
-            return true;
-
-        if(dp[i][j][health] != -1)
-            return dp[i][j][health];
-
-        if (visited[i][j])
-            return false;
-
-        visited[i][j] = true;
-
-        bool found = dfs(i + 1, j, health) || dfs(i - 1, j, health) ||
-                     dfs(i, j + 1, health) || dfs(i, j - 1, health);
-
-        visited[i][j] = false;
-        dp[i][j][health] = found;
-        return found;
-    }
-
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        g = grid;
 
-        m = g.size();
-        n = g[0].size();
-        dp = vector<vector<vector<int>>>(m, vector<vector<int>>(n, vector<int>(health + 1, -1)));
-        visited.assign(m, vector<bool>(n, false));
+        int m = grid.size();
+        int n = grid[0].size();
 
-        return dfs(0, 0, health);
+        // dist[i][j] = minimum damage needed to reach (i,j)
+        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
+
+        priority_queue<
+            tuple<int,int,int>,
+            vector<tuple<int,int,int>>,
+            greater<tuple<int,int,int>>
+        > pq;
+
+        dist[0][0] = grid[0][0];
+        pq.push({dist[0][0], 0, 0});
+
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
+
+        while(!pq.empty())
+        {
+            auto [damage, r, c] = pq.top();
+            pq.pop();
+
+            // Ignore outdated entries
+            if(damage > dist[r][c])
+                continue;
+
+            for(int k = 0; k < 4; k++)
+            {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+
+                if(nr < 0 || nr >= m || nc < 0 || nc >= n)
+                    continue;
+
+                int newDamage = damage + grid[nr][nc];
+
+                if(newDamage < dist[nr][nc])
+                {
+                    dist[nr][nc] = newDamage;
+                    pq.push({newDamage, nr, nc});
+                }
+            }
+        }
+
+        return dist[m-1][n-1] < health;
     }
 };
