@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swaroopstack/Leetcode-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
