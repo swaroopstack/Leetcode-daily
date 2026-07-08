@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
