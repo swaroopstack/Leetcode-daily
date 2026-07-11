@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/swaroopstack/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
