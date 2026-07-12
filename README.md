@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swaroopstack/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
+| [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/swaroopstack/Leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -168,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
