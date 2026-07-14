@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/0258-add-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
