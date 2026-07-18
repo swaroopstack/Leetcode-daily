@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/swaroopstack/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/swaroopstack/Leetcode-daily/tree/master/0724-find-pivot-index) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/swaroopstack/Leetcode-daily/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swaroopstack/Leetcode-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
