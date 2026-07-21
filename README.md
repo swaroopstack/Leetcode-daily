@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1748-sum-of-unique-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
