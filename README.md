@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swaroopstack/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/1288-remove-covered-intervals) |
