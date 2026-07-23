@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
