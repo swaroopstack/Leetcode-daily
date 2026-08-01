@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/swaroopstack/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/swaroopstack/Leetcode-daily/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0164-maximum-gap) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
