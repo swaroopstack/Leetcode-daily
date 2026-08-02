@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/swaroopstack/Leetcode-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/swaroopstack/Leetcode-daily/tree/master/2523-closest-prime-numbers-in-range) |
@@ -352,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
