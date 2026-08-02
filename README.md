@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/swaroopstack/Leetcode-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Array
 |  |
