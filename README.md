@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/swaroopstack/Leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/swaroopstack/Leetcode-daily/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
