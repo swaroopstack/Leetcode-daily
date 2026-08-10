@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/swaroopstack/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/swaroopstack/Leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
 | ------- |
@@ -428,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
