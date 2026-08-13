@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0992-subarrays-with-k-different-integers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1331-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swaroopstack/Leetcode-daily/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
