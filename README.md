@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/swaroopstack/Leetcode-daily/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/swaroopstack/Leetcode-daily/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/swaroopstack/Leetcode-daily/tree/master/1051-height-checker) |
