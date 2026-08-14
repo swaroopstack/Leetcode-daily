@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/swaroopstack/Leetcode-daily/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
+| [0746-min-cost-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/swaroopstack/Leetcode-daily/tree/master/1301-number-of-paths-with-max-score) |
