@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/swaroopstack/Leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/swaroopstack/Leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
