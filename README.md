@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/0056-merge-intervals) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
 ## Monotonic Queue
 |  |
