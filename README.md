@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0179-largest-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/swaroopstack/Leetcode-daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
