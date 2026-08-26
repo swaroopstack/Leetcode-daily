@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/swaroopstack/Leetcode-daily/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/swaroopstack/Leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/swaroopstack/Leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
