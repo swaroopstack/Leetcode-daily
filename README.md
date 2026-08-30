@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swaroopstack/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1922-count-good-numbers) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swaroopstack/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
 | ------- |
