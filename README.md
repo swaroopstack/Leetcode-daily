@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/swaroopstack/Leetcode-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swaroopstack/Leetcode-daily/tree/master/1552-magnetic-force-between-two-balls) |
+| [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/swaroopstack/Leetcode-daily/tree/master/2523-closest-prime-numbers-in-range) |
+| [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/swaroopstack/Leetcode-daily/tree/master/2523-closest-prime-numbers-in-range) |
+| [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swaroopstack/Leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
