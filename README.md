@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swaroopstack/Leetcode-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
