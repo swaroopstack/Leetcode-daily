@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/swaroopstack/Leetcode-daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swaroopstack/Leetcode-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/swaroopstack/Leetcode-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swaroopstack/Leetcode-daily/tree/master/1552-magnetic-force-between-two-balls) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swaroopstack/Leetcode-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/swaroopstack/Leetcode-daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sliding Window
 |  |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -641,11 +645,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
 | ------- |
