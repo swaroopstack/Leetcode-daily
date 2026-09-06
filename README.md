@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swaroopstack/Leetcode-daily/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/swaroopstack/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/swaroopstack/Leetcode-daily/tree/master/0198-house-robber) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/swaroopstack/Leetcode-daily/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/swaroopstack/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
