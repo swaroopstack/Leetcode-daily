@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/swaroopstack/Leetcode-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/swaroopstack/Leetcode-daily/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/swaroopstack/Leetcode-daily/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/swaroopstack/Leetcode-daily/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
