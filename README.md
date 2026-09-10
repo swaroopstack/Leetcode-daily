@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swaroopstack/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swaroopstack/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swaroopstack/Leetcode-daily/tree/master/0072-edit-distance) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/swaroopstack/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/swaroopstack/Leetcode-daily/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -744,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/swaroopstack/Leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
