@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0033-search-in-rotated-sorted-array) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/swaroopstack/Leetcode-daily/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0410-split-array-largest-sum) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
