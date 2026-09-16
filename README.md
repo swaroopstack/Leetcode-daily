@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/swaroopstack/Leetcode-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/swaroopstack/Leetcode-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swaroopstack/Leetcode-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/swaroopstack/Leetcode-daily/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/swaroopstack/Leetcode-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swaroopstack/Leetcode-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/swaroopstack/Leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/swaroopstack/Leetcode-daily/tree/master/1672-richest-customer-wealth) |
