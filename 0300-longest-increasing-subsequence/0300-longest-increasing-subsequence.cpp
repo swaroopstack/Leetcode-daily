@@ -1,5 +1,24 @@
 class Solution {
 public:
+    int lengthOfLIS(vector<int>& nums) {
+        vector<int> sub;
+        for(int x:nums){
+            if(sub.empty() || sub[sub.size() - 1] < x){
+                sub.push_back(x);
+            }
+            else{
+                auto it=lower_bound(sub.begin(),sub.end(),x);
+                *it=x;
+            }
+        }
+        return sub.size();
+    }
+};
+
+// dp solution (n^2)
+/*
+class Solution {
+public:
     int solve(int i,int prev,vector<int>& nums, vector<vector<int>>& dp){
         if(i==nums.size()) return 0;
         if(dp[i][prev+1]!=-1){
@@ -17,3 +36,4 @@ public:
         return solve(0,-1,nums,dp);
     }
 };
+*/
