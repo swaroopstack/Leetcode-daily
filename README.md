@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/swaroopstack/Leetcode-daily/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0835-image-overlap) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
