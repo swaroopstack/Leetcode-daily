@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/swaroopstack/Leetcode-daily/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
