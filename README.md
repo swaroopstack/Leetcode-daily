@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/swaroopstack/Leetcode-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/swaroopstack/Leetcode-daily/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/swaroopstack/Leetcode-daily/tree/master/0480-sliding-window-median) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/swaroopstack/Leetcode-daily/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/swaroopstack/Leetcode-daily/tree/master/0480-sliding-window-median) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/swaroopstack/Leetcode-daily/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
