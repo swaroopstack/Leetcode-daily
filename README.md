@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3210-find-the-encrypted-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/3210-find-the-encrypted-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
