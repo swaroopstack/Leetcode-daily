@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1748-sum-of-unique-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/swaroopstack/Leetcode-daily/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1755-closest-subsequence-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1755-closest-subsequence-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/swaroopstack/Leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/swaroopstack/Leetcode-daily/tree/master/1678-goal-parser-interpretation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
