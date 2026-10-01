@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/swaroopstack/Leetcode-daily/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/swaroopstack/Leetcode-daily/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/swaroopstack/Leetcode-daily/tree/master/0705-design-hashset) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/swaroopstack/Leetcode-daily/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/swaroopstack/Leetcode-daily/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0474-ones-and-zeroes) |
+| [0500-keyboard-row](https://github.com/swaroopstack/Leetcode-daily/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
