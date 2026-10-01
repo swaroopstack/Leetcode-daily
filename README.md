@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/swaroopstack/Leetcode-daily/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0647-palindromic-substrings) |
