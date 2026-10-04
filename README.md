@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/swaroopstack/Leetcode-daily/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swaroopstack/Leetcode-daily/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/swaroopstack/Leetcode-daily/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/swaroopstack/Leetcode-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/swaroopstack/Leetcode-daily/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/swaroopstack/Leetcode-daily/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/swaroopstack/Leetcode-daily/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/swaroopstack/Leetcode-daily/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swaroopstack/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
