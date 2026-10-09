@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/swaroopstack/Leetcode-daily/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
