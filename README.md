@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/swaroopstack/Leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
