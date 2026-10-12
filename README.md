@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/swaroopstack/Leetcode-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swaroopstack/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1755-closest-subsequence-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1755-closest-subsequence-sum) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
