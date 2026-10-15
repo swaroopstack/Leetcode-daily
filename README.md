@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/swaroopstack/Leetcode-daily/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/swaroopstack/Leetcode-daily/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/swaroopstack/Leetcode-daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
+| [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 ## Longest Common Subsequence
 |  |
 | ------- |
