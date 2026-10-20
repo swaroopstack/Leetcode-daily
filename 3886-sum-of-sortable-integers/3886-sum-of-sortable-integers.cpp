@@ -91,7 +91,7 @@ public:
     }
 };
 
-//TC => O(n log n + m*n)
+//TC => O(n log n + m*n)   ; m=d(n)
 
 /*
 we can find if after any rotation we can get a desired arrangement without doing it 
