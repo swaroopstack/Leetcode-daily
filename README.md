@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0606-construct-string-from-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0551-student-attendance-record-i) |
 | [0583-delete-operation-for-two-strings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
