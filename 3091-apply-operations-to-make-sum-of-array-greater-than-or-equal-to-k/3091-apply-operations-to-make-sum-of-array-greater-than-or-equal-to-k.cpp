@@ -7,8 +7,8 @@ public:
         int ans=INT_MAX;
         for(int i=1;i<=k;i++){
             int increment=i-1;
-            int duplicate=(k+i-1)/i-1;
-            ans=min(ans,increment+duplicate);
+            int duplicate=(k+i-1)/i;
+            ans=min(ans,increment+duplicate-1);
         }
         return ans;
     }
