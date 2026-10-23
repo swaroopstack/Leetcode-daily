@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/swaroopstack/Leetcode-daily/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/swaroopstack/Leetcode-daily/tree/master/0355-design-twitter) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/swaroopstack/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/swaroopstack/Leetcode-daily/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/swaroopstack/Leetcode-daily/tree/master/0409-longest-palindrome) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/swaroopstack/Leetcode-daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/swaroopstack/Leetcode-daily/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/swaroopstack/Leetcode-daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
 ## Treap
 |  |
