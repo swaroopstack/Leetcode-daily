@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/swaroopstack/Leetcode-daily/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Number Theory
 |  |
 | ------- |
