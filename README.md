@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swaroopstack/Leetcode-daily/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/swaroopstack/Leetcode-daily/tree/master/1046-last-stone-weight) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/swaroopstack/Leetcode-daily/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/swaroopstack/Leetcode-daily/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/1288-remove-covered-intervals) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/swaroopstack/Leetcode-daily/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/swaroopstack/Leetcode-daily/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -971,12 +975,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -1047,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swaroopstack/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/swaroopstack/Leetcode-daily/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Rolling Hash
@@ -1125,4 +1132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/swaroopstack/Leetcode-daily/tree/master/0968-binary-tree-cameras) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
