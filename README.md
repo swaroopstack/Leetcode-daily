@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/swaroopstack/Leetcode-daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/swaroopstack/Leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 | [1046-last-stone-weight](https://github.com/swaroopstack/Leetcode-daily/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/swaroopstack/Leetcode-daily/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swaroopstack/Leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/swaroopstack/Leetcode-daily/tree/master/1108-defanging-an-ip-address) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/swaroopstack/Leetcode-daily/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
@@ -1041,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0692-top-k-frequent-words) |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 ## Treap
 |  |
 | ------- |
@@ -1145,4 +1150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
