@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/swaroopstack/Leetcode-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/swaroopstack/Leetcode-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/swaroopstack/Leetcode-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/swaroopstack/Leetcode-daily/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/swaroopstack/Leetcode-daily/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/swaroopstack/Leetcode-daily/tree/master/3941-password-strength) |
 ## Backtracking
@@ -846,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
@@ -996,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/swaroopstack/Leetcode-daily/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -1087,12 +1093,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
