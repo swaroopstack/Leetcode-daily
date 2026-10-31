@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/swaroopstack/Leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/swaroopstack/Leetcode-daily/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swaroopstack/Leetcode-daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/swaroopstack/Leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/swaroopstack/Leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
