@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/swaroopstack/Leetcode-daily/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/swaroopstack/Leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/swaroopstack/Leetcode-daily/tree/master/1672-richest-customer-wealth) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/1748-sum-of-unique-elements) |
 | [1755-closest-subsequence-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/swaroopstack/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
