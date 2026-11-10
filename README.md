@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swaroopstack/Leetcode-daily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/swaroopstack/Leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/swaroopstack/Leetcode-daily/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3693-climbing-stairs-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/swaroopstack/Leetcode-daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/swaroopstack/Leetcode-daily/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/swaroopstack/Leetcode-daily/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
