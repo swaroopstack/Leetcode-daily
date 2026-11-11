@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
