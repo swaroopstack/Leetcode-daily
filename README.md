@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/swaroopstack/Leetcode-daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/swaroopstack/Leetcode-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
