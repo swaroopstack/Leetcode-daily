@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/swaroopstack/Leetcode-daily/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0633-sum-of-square-numbers) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/swaroopstack/Leetcode-daily/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0474-ones-and-zeroes) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/swaroopstack/Leetcode-daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/swaroopstack/Leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/0451-sort-characters-by-frequency) |
