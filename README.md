@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 | [2747-count-zero-request-servers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/swaroopstack/Leetcode-daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swaroopstack/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/swaroopstack/Leetcode-daily/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/swaroopstack/Leetcode-daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
