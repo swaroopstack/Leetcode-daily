@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/swaroopstack/Leetcode-daily/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/swaroopstack/Leetcode-daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/swaroopstack/Leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/swaroopstack/Leetcode-daily/tree/master/0443-string-compression) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/swaroopstack/Leetcode-daily/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0678-valid-parenthesis-string) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/swaroopstack/Leetcode-daily/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/swaroopstack/Leetcode-daily/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/swaroopstack/Leetcode-daily/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/swaroopstack/Leetcode-daily/tree/master/0779-k-th-symbol-in-grammar) |
