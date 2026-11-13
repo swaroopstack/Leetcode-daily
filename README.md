@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/swaroopstack/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/swaroopstack/Leetcode-daily/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/swaroopstack/Leetcode-daily/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/swaroopstack/Leetcode-daily/tree/master/1162-as-far-from-land-as-possible) |
+| [1207-unique-number-of-occurrences](https://github.com/swaroopstack/Leetcode-daily/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/swaroopstack/Leetcode-daily/tree/master/1267-count-servers-that-communicate) |
