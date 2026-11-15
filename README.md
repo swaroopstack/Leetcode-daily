@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/swaroopstack/Leetcode-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swaroopstack/Leetcode-daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swaroopstack/Leetcode-daily/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swaroopstack/Leetcode-daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1755-closest-subsequence-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1755-closest-subsequence-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swaroopstack/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swaroopstack/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swaroopstack/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/swaroopstack/Leetcode-daily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
@@ -867,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/swaroopstack/Leetcode-daily/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3903-smallest-stable-index-i) |
