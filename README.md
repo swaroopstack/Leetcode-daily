@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/swaroopstack/Leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/swaroopstack/Leetcode-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/swaroopstack/Leetcode-daily/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/swaroopstack/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
