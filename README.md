@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swaroopstack/Leetcode-daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swaroopstack/Leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [0968-binary-tree-cameras](https://github.com/swaroopstack/Leetcode-daily/tree/master/0968-binary-tree-cameras) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swaroopstack/Leetcode-daily/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swaroopstack/Leetcode-daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swaroopstack/Leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/swaroopstack/Leetcode-daily/tree/master/0994-rotting-oranges) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/swaroopstack/Leetcode-daily/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/swaroopstack/Leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/swaroopstack/Leetcode-daily/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/swaroopstack/Leetcode-daily/tree/master/1267-count-servers-that-communicate) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/swaroopstack/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/swaroopstack/Leetcode-daily/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/swaroopstack/Leetcode-daily/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/swaroopstack/Leetcode-daily/tree/master/0802-find-eventual-safe-states) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1310,4 +1314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/swaroopstack/Leetcode-daily/tree/master/0802-find-eventual-safe-states) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/swaroopstack/Leetcode-daily/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
