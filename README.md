@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swaroopstack/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0120-triangle) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swaroopstack/Leetcode-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swaroopstack/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/swaroopstack/Leetcode-daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/swaroopstack/Leetcode-daily/tree/master/0225-implement-stack-using-queues) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swaroopstack/Leetcode-daily/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swaroopstack/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/swaroopstack/Leetcode-daily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0503-next-greater-element-ii) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/swaroopstack/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
