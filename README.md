@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swaroopstack/Leetcode-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swaroopstack/Leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swaroopstack/Leetcode-daily/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/swaroopstack/Leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/swaroopstack/Leetcode-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/swaroopstack/Leetcode-daily/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/swaroopstack/Leetcode-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/swaroopstack/Leetcode-daily/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swaroopstack/Leetcode-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/swaroopstack/Leetcode-daily/tree/master/0120-triangle) |
@@ -1126,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swaroopstack/Leetcode-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swaroopstack/Leetcode-daily/tree/master/0240-search-a-2d-matrix-ii) |
