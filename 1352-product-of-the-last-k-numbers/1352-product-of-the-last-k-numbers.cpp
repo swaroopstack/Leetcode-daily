@@ -7,13 +7,9 @@ public:
     void add(int num) {
         if(num==0){
             pre={1};
-            return;
-        }
-        if(!pre.empty()){
-            pre.push_back(pre.back()*num);
         }
         else{
-            pre.push_back(num);
+            pre.push_back(pre.back()*num);
         }
         
     }
