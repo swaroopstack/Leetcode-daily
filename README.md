@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/swaroopstack/Leetcode-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swaroopstack/Leetcode-daily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/swaroopstack/Leetcode-daily/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/swaroopstack/Leetcode-daily/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swaroopstack/Leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swaroopstack/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/swaroopstack/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swaroopstack/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swaroopstack/Leetcode-daily/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/swaroopstack/Leetcode-daily/tree/master/3364-minimum-positive-sum-subarray) |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/swaroopstack/Leetcode-daily/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
 | [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 | [2336-smallest-number-in-infinite-set](https://github.com/swaroopstack/Leetcode-daily/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -1138,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/swaroopstack/Leetcode-daily/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/swaroopstack/Leetcode-daily/tree/master/0901-online-stock-span) |
 | [1032-stream-of-characters](https://github.com/swaroopstack/Leetcode-daily/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/swaroopstack/Leetcode-daily/tree/master/1472-design-browser-history) |
 ## Divide and Conquer
 |  |
