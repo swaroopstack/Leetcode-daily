@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/swaroopstack/Leetcode-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/swaroopstack/Leetcode-daily/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/swaroopstack/Leetcode-daily/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/swaroopstack/Leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/swaroopstack/Leetcode-daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/swaroopstack/Leetcode-daily/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/swaroopstack/Leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/swaroopstack/Leetcode-daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/swaroopstack/Leetcode-daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/swaroopstack/Leetcode-daily/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swaroopstack/Leetcode-daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/swaroopstack/Leetcode-daily/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/swaroopstack/Leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/swaroopstack/Leetcode-daily/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/swaroopstack/Leetcode-daily/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/swaroopstack/Leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/swaroopstack/Leetcode-daily/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swaroopstack/Leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/swaroopstack/Leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/swaroopstack/Leetcode-daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/swaroopstack/Leetcode-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/swaroopstack/Leetcode-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/swaroopstack/Leetcode-daily/tree/master/2523-closest-prime-numbers-in-range) |
 | [2601-prime-subtraction-operation](https://github.com/swaroopstack/Leetcode-daily/tree/master/2601-prime-subtraction-operation) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/swaroopstack/Leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/swaroopstack/Leetcode-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swaroopstack/Leetcode-daily/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
